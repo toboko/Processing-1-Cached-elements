@@ -1,6 +1,3 @@
-// Generare al massimo 120 punti, superato questo limite cancellare
-// gli ultimi elementi inseriti. (Sfruttare gli array per risolvere il problema)
-
 Point p;
 boolean pressed = false;
 int limit = 120;
